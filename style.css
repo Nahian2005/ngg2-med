@@ -1,0 +1,278 @@
+body{
+
+
+    text-align: center;
+
+    background-color: gray;
+}
+
+.d{
+
+
+    margin-top: 8rem;
+
+   background-color: brown;
+
+  padding: 9rem; 
+
+  border-radius: 2rem;
+}
+
+#in {
+    padding: 3px;
+    box-shadow: 3px 3px 5px grey;
+    font-size: 14px;
+    font-weight: 600;
+    width: 300px;
+  }
+
+
+ #btn {
+ 
+   
+    display: inline-block;
+    outline: 0;
+    text-align: center;
+    cursor: pointer;
+    height: 31px;
+    padding: 0 13px;
+    vertical-align: top;
+    border-radius: 3px;
+    border: 1px solid transparent;
+    transition: all .3s ease;
+    background: #fff;
+    border-color: #e8e8e8;
+    color: #000;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 16px;
+    font-size: 11px;
+    margin-left: 1rem;
+   
+    
+ }
+
+ #btn:hover{
+
+    
+
+    
+        background: #e8e8e8;
+        color: #3d3d3d;
+
+    
+    
+     
+ }
+
+ #h1{
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+font-size: 2rem;
+
+color: yellowgreen
+ }
+
+ #h{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: burlywood;
+
+
+ }
+
+ #ne{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gold;
+
+ }
+
+ .gif{
+
+   height: 50px;
+
+   width: 60px;
+ }
+
+ .g1{
+   height: 50px;
+
+   width: 60px;
+
+ }
+ .g2{
+
+   height: 50px;
+
+   width: 60px;
+
+   margin-left:27rem;
+   margin-top: -4.5rem;
+ }
+
+
+#btn2{
+
+   
+  display: inline-block;
+  outline: 0;
+  text-align: center;
+  cursor: pointer;
+  height: 31px;
+  padding: 0 13px;
+  vertical-align: top;
+  border-radius: 3px;
+  border: 1px solid transparent;
+  transition: all .3s ease;
+  background: #fff;
+  border-color: #e8e8e8;
+  color: #000;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 16px;
+  font-size: 11px;
+  margin-left: 1rem;
+}
+
+#btn2:hover{
+
+  background: red;
+        color: #3d3d3d
+
+}
+
+#h43{
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  color: greenyellow;
+  font-size: 1rem;
+
+}
+
+#h44{
+
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  color: greenyellow;
+  font-size: 1rem;
+}
+
+#h441{
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  color: greenyellow;
+  font-size: 1rem;
+
+}
+#h45{
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  color: greenyellow;
+  font-size: 1rem;
+
+
+}
+
+#h41{
+
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  color: greenyellow;
+  font-size: 1rem;
+}
+
+#h42{
+  display: inline-block;
+  text-align: center;
+ font-family: cursive;
+ color: greenyellow;
+ font-size: 1rem;
+
+}
+
+#h4{
+
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  color: greenyellow;
+  font-size: 1rem;
+}
+
+#h22{
+
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  color: greenyellow;
+  font-size: 1rem;
+}
+
+#t{
+
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  color: greenyellow;
+  font-size: 1rem;
+  margin-left: 2px;
+
+}
+
+#t1{
+
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  color: greenyellow;
+  font-size: 1rem;
+  margin-left: 2px;
+
+}
+
+.dropbtn {
+  background-color: greenyellow;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
